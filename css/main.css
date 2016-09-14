@@ -1,0 +1,25 @@
+/*NavBar*/
+
+.navbar, .first-section{
+	background-color: #F9DB79;
+}
+
+.nav_names li{
+	list-style: none;
+	display: inline-block;
+}
+
+
+
+
+
+/*Footer*/
+.footer{
+	background: black;
+	color:white;
+}
+
+.social_buttons li{
+	list-style: none;
+	display: inline-block;
+}
