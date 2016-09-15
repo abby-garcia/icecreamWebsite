@@ -4,9 +4,39 @@
 	background-color: #F9DB79;
 }
 
+.nav_names{
+	float:left;
+}
+
 .nav_names li{
 	list-style: none;
 	display: inline-block;
+
+}
+
+.nav_social{
+	float:right;
+	list-style: none;
+	display: inline-block;
+}
+
+.nav_social li{
+	list-style: none;
+	display: inline-block;
+}
+
+/*First Section*/
+.first-section{
+	background-image: url("../img/pinkicecream.png");
+	background-repeat: no-repeat;
+	height:800px;
+	text-align: center;
+}
+
+.gelato_picture{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 
