@@ -11,12 +11,12 @@ h1,h2,h3,h4,h5,h6,p, li{
 
 h2{
  	color:white;
- 	font-size: 200px;
+ 	font-size: 150px;
 }
 
 h3{
 	color:white;
-	font-size: 50px;
+	font-size: 25px;
 }
 
 /*NavBar*/
@@ -69,11 +69,38 @@ h3{
 
 /*Enjoy Dairy Free*/
 .dairy_free{
+	background-color: #B5E8D5;
 	background-image: url("../img/dairy_free.png");
 	background-repeat: no-repeat;
 	height:800px;
 	text-align: center;
 	background-position: center;
+}
+
+
+/*Our Place*/
+.ourPlace{
+	float:right;
+	text-align: center;
+	background-color: white;
+}
+.ourPlace h3{
+	color:black;
+	font-size: 40px;
+}
+
+
+/*Catering & More Events*/
+.catering{
+	color:black;
+	text-align: center;
+	background-color: #FFBFB3;
+	margin-bottom: 800px;
+	background-image: url("../img/events.png");
+}
+
+.catering h2, h3{
+	color:black;
 }
 
 
