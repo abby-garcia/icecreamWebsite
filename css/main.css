@@ -1,3 +1,20 @@
+/*General Settings*/
+h1,h2,h3,h4,h5,h6,p{
+	font-family: 'Lalezar', cursive;
+
+}
+
+
+h2{
+ 	color:white;
+ 	font-size: 100px;
+}
+
+h3{
+	color:white;
+	font-size: 40px;
+}
+
 /*NavBar*/
 
 .navbar, .first-section{
@@ -31,6 +48,12 @@
 	background-repeat: no-repeat;
 	height:800px;
 	text-align: center;
+	background-position: center; 
+}
+
+.first-section h3{
+	margin-top: 320px;
+
 }
 
 .gelato_picture{
